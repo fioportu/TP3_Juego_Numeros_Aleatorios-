@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\portu\\source\\repos\\Tarea3_JuegoJPS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24CD2C2E-38BD-4039-B2EB-AF1E8CAEBF37}|Tarea3_JuegoJPS\\Tarea3_JuegoJPS.csproj|c:\\users\\portu\\source\\repos\\tarea3_juegojps\\tarea3_juegojps\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{24CD2C2E-38BD-4039-B2EB-AF1E8CAEBF37}|Tarea3_JuegoJPS\\Tarea3_JuegoJPS.csproj|solutionrelative:tarea3_juegojps\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24CD2C2E-38BD-4039-B2EB-AF1E8CAEBF37}|Tarea3_JuegoJPS\\Tarea3_JuegoJPS.csproj|C:\\Users\\portu\\source\\repos\\Tarea3_JuegoJPS\\tarea3_juegojps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24CD2C2E-38BD-4039-B2EB-AF1E8CAEBF37}|Tarea3_JuegoJPS\\Tarea3_JuegoJPS.csproj|solutionrelative:tarea3_juegojps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24CD2C2E-38BD-4039-B2EB-AF1E8CAEBF37}|Tarea3_JuegoJPS\\Tarea3_JuegoJPS.csproj|C:\\Users\\portu\\source\\repos\\Tarea3_JuegoJPS\\tarea3_juegojps\\models\\tp3context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24CD2C2E-38BD-4039-B2EB-AF1E8CAEBF37}|Tarea3_JuegoJPS\\Tarea3_JuegoJPS.csproj|solutionrelative:tarea3_juegojps\\models\\tp3context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24CD2C2E-38BD-4039-B2EB-AF1E8CAEBF37}|Tarea3_JuegoJPS\\Tarea3_JuegoJPS.csproj|C:\\Users\\portu\\source\\repos\\Tarea3_JuegoJPS\\tarea3_juegojps\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24CD2C2E-38BD-4039-B2EB-AF1E8CAEBF37}|Tarea3_JuegoJPS\\Tarea3_JuegoJPS.csproj|solutionrelative:tarea3_juegojps\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24CD2C2E-38BD-4039-B2EB-AF1E8CAEBF37}|Tarea3_JuegoJPS\\Tarea3_JuegoJPS.csproj|C:\\Users\\portu\\source\\repos\\Tarea3_JuegoJPS\\tarea3_juegojps\\models\\numero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24CD2C2E-38BD-4039-B2EB-AF1E8CAEBF37}|Tarea3_JuegoJPS\\Tarea3_JuegoJPS.csproj|solutionrelative:tarea3_juegojps\\models\\numero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\portu\\source\\repos\\Tarea3_JuegoJPS\\Tarea3_JuegoJPS\\App.config",
+              "RelativeDocumentMoniker": "Tarea3_JuegoJPS\\App.config",
+              "ToolTip": "C:\\Users\\portu\\source\\repos\\Tarea3_JuegoJPS\\Tarea3_JuegoJPS\\App.config",
+              "RelativeToolTip": "Tarea3_JuegoJPS\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-21T23:39:26.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TP3Context.cs",
+              "DocumentMoniker": "C:\\Users\\portu\\source\\repos\\Tarea3_JuegoJPS\\Tarea3_JuegoJPS\\Models\\TP3Context.cs",
+              "RelativeDocumentMoniker": "Tarea3_JuegoJPS\\Models\\TP3Context.cs",
+              "ToolTip": "C:\\Users\\portu\\source\\repos\\Tarea3_JuegoJPS\\Tarea3_JuegoJPS\\Models\\TP3Context.cs",
+              "RelativeToolTip": "Tarea3_JuegoJPS\\Models\\TP3Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T23:30:06.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Numero.cs",
+              "DocumentMoniker": "C:\\Users\\portu\\source\\repos\\Tarea3_JuegoJPS\\Tarea3_JuegoJPS\\Models\\Numero.cs",
+              "RelativeDocumentMoniker": "Tarea3_JuegoJPS\\Models\\Numero.cs",
+              "ToolTip": "C:\\Users\\portu\\source\\repos\\Tarea3_JuegoJPS\\Tarea3_JuegoJPS\\Models\\Numero.cs",
+              "RelativeToolTip": "Tarea3_JuegoJPS\\Models\\Numero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T23:28:49.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\portu\\source\\repos\\Tarea3_JuegoJPS\\Tarea3_JuegoJPS\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Tarea3_JuegoJPS\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\portu\\source\\repos\\Tarea3_JuegoJPS\\Tarea3_JuegoJPS\\Models\\Producto.cs",
+              "RelativeToolTip": "Tarea3_JuegoJPS\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T23:27:33.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\portu\\source\\repos\\Tarea3_JuegoJPS\\Tarea3_JuegoJPS\\Program.cs",
+              "RelativeDocumentMoniker": "Tarea3_JuegoJPS\\Program.cs",
+              "ToolTip": "C:\\Users\\portu\\source\\repos\\Tarea3_JuegoJPS\\Tarea3_JuegoJPS\\Program.cs",
+              "RelativeToolTip": "Tarea3_JuegoJPS\\Program.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T22:25:08.679Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
